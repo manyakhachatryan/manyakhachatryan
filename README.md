@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 all my Repositories are in my "Organizations"
 
 <p align="center">
   <a href="https://profile.intra.42.fr/">
