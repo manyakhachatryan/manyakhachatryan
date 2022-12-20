@@ -1,3 +1,5 @@
+Hi there 👋
+
 <p align="center">
   <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.vercel.app/api/v2/clbgh1ht000110glbxan4xbs7/stats?cursusId=21&coalitionId=undefined">
